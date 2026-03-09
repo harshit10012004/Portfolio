@@ -16,6 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
+    css: ["styles/abecedarium.css"],
     baseUrl: "harshit10012004.github.io/Portfolio",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
